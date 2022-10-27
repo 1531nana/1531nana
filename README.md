@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @1531nana
-- 👀 I’m interested in    aprender y ser mejor cada día...
-- 🌱 I’m currently learninsobre lenguaje de programción, específicamente JS..
-- 💞️ I’m looking to collaborate on ...proyecto
-- 
-- 📫 How to reach me  por medio del correo 1531nana@gmail.com
+- 👋 Hi, I’m Luz Adriana Giraldo Gómez, but call me Adriana
+- 👀 I’m interested in get out of my comfort zone
+- 🌱 I’m currently learning about React
+- 💞️ I’m looking to collaborate on react projects
+- 📫 How to reach me  by email 1531nana@gmail.com
 
 
 <!---
