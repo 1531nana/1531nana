@@ -2,7 +2,7 @@
 - 👀 I’m interested in get out of my comfort zone
 - 🌱 I’m currently learning about React
 - 💞️ I’m looking to collaborate on react projects
-- 📫 How to reach me  by email 1531nana@gmail.com
+- 📫 How to reach me  by email 1531nana@gmail.com 
 
 
 <!---
